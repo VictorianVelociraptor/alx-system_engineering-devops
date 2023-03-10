@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reflection=olleh
+chmod --reflection=olleh hello
