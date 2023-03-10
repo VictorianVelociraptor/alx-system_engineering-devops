@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reflection=olleh hello
+chmod --reflection=hello oleh
